@@ -50,7 +50,7 @@ Finally, add an identifier class to the article element, in the example, it's "v
         <div data-vizzu-animid="1" class="vizzu-cont">
             <p>Lorem ipsum dolor sit amet...</p>
         </div>
-        <div data-vizzu-animid="2" class="cont">
+        <div data-vizzu-animid="2" class="vizzu-cont">
             <p>Lorem ipsum dolor sit amet...</p>
         </div>
         <div data-vizzu-animid="3" class="vizzu-cont">
@@ -98,7 +98,7 @@ The script will animate through the chart animations, save them, and display the
 
 # Options
 - scrollType: String
-    Controlls the scroll type. Currently, it only supports `animate`, which whill animate between current animation states and "speeds up" the animation if the user scrolls past multiple artictle elements. Default: `animate`.
+    Controlls the scroll type. Currently, it only supports `animate`, which will animate between current animation states and "speeds up" the animation if the user scrolls past multiple artictle elements. Default: `animate`.
 - animateDuration: String
     A time unit that sets how fast will the "scrollPast" animations be. Default: `250ms`.
 - vizzuContainer: Object
