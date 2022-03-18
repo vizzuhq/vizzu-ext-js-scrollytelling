@@ -13,7 +13,7 @@
 {
     position: fixed;
     z-index: 999;
-    top: calc(var(--cul-offset) * 1px);
+    top: calc(var(--cul-offset) * 0px);
     border-top: rgba(255, 0, 0, 2) 1px solid;
     width: 100vw;
     height: 1rem;
