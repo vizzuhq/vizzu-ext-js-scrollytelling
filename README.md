@@ -140,7 +140,7 @@ If you want to visualize the "culBar", include an empty element with the class `
 <div class="vizzu-culBar"></div>
 ```
 
-## [Example](https://vizzuhq.github.io/vizzu-ext-scrollytelling-js/)
+## [Example](https://vizzuhq.github.io/vizzu-ext-js-scrollytelling/)
 
 # Contributing
 
