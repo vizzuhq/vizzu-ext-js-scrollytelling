@@ -154,5 +154,5 @@ We welcome contributions to the project, visit our [wiki page](https://github.co
 
 # License
 
-Copyright © 2022 [Vizzu Kft.](https://vizzuhq.com).
+Copyright © 2022-2023 [Vizzu Inc.](https://vizzuhq.com)
 Released under the [MIT License](LICENSE).
